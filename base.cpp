@@ -15,7 +15,10 @@ int main()
 	cout.precision(10);
 	cout<<fixed;
 	////////////////////////////////
-	
-
+  get(test);
+  while(test--)
+  {
+    // code
+  }
 	return 0;
 }
